@@ -46,12 +46,12 @@ Trabalho com SEO técnico, SEO local e GEO, que é a otimização para as respos
 
 ## <a name="servicos"><img src="./assets/h-servicos.svg" width="30" height="30" alt="" /></a> O que eu faço
 
-<a href="https://seohenriqueholanda.com.br/servicos">
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/servicos-celular.svg" />
   <img src="./assets/servicos.svg" width="1200" alt="SEO técnico: Rastreamento, indexação, velocidade e dados estruturados. O site precisa ser lido antes de ranquear. SEO local: Perfil da Empresa no Google, avaliações e páginas locais para quem atende no bairro e na cidade. GEO: citado pelas IAs: Entidade clara e conteúdo citável para aparecer como fonte no AI Overviews, ChatGPT, Gemini e Perplexity. Publicidade médica: Sites de médicos e clínicas dentro da Resolução CFM 2.336/2023, sem perder força na busca. Sites rápidos: Next.js e Payload CMS no lugar do WordPress pesado: leve, seguro e fácil de editar. Mensuração: Antes e depois com dados do Google, para saber se o SEO funcionou de verdade." />
 </picture>
-</a>
+
+<p align="right"><a href="https://seohenriqueholanda.com.br/servicos">Veja os serviços no site</a></p>
 
 ## <a name="ferramentas"><img src="./assets/h-ferramentas.svg" width="30" height="30" alt="" /></a> Ferramentas do dia a dia
 
