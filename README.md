@@ -14,11 +14,11 @@
 <br />
 
 <p align="center">
-  <a href="https://discord.gg/qyRjauZwD3"><img src="./assets/anuncio.svg" width="504" alt="Anúncio: Quer falar com o Henrique? Entre na comunidade SEO e GEO no Discord, ele sempre aparece por lá. Nos falamos por lá!" /></a>
+  <a href="https://discord.gg/qyRjauZwD3" target="_blank" rel="noopener noreferrer"><img src="./assets/anuncio.svg" width="504" alt="Anúncio: Quer falar com o Henrique? Entre na comunidade SEO e GEO no Discord, ele sempre aparece por lá. Nos falamos por lá!" /></a>
 </p>
 
 <p align="center">
-  <a href="https://files.catbox.moe/2thyzw.mp3"><img src="./assets/radio.svg" width="504" alt="Rádio HH: Perfect World Soundtrack, trilha sonora nostálgica de 34 minutos. Clique para ouvir." /></a>
+  <a href="https://files.catbox.moe/2thyzw.mp3" target="_blank" rel="noopener noreferrer"><img src="./assets/radio.svg" width="504" alt="Rádio HH: Perfect World Soundtrack, trilha sonora nostálgica de 34 minutos. Clique para ouvir." /></a>
 </p>
 
 </details>
@@ -29,10 +29,10 @@
 </p>
 
 <p align="center">
-  <a href="https://seohenriqueholanda.com.br"><img src="./assets/btn-site.svg" width="150" alt="Site" /></a>
-  <a href="https://www.linkedin.com/in/henrique-holanda-07240b10b"><img src="./assets/btn-linkedin.svg" width="150" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/qyRjauZwD3"><img src="./assets/btn-discord.svg" width="150" alt="Discord" /></a>
-  <a href="https://enois.ia.br/perfil/henrique-holanda-da-silva"><img src="./assets/btn-enois.svg" width="150" alt="Énóis" /></a>
+  <a href="https://seohenriqueholanda.com.br" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-site.svg" width="150" alt="Site" /></a>
+  <a href="https://www.linkedin.com/in/henrique-holanda-07240b10b" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-linkedin.svg" width="150" alt="LinkedIn" /></a>
+  <a href="https://discord.gg/qyRjauZwD3" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-discord.svg" width="150" alt="Discord" /></a>
+  <a href="https://enois.ia.br/perfil/henrique-holanda-da-silva" target="_blank" rel="noopener noreferrer"><img src="./assets/btn-enois.svg" width="150" alt="Énóis" /></a>
 </p>
 
 ## <a name="sobre"><img src="./assets/h-sobre.svg" width="30" height="30" alt="" /></a> Sobre mim
@@ -40,9 +40,9 @@
 Trabalho com SEO técnico, SEO local e GEO, que é a otimização para as respostas das IAs. Boa parte dos meus clientes é da área da saúde, então também cuido para que cada site siga as regras de publicidade médica do CFM.
 
 - Construo sites em **Next.js com Payload CMS** para quem quer sair do WordPress lento.
-- Escrevo sobre [SEO](https://seohenriqueholanda.com.br/blog/categoria/seo), [GEO](https://seohenriqueholanda.com.br/blog/categoria/geo) e [publicidade médica](https://seohenriqueholanda.com.br/blog/categoria/publicidade-medica) no [meu blog](https://seohenriqueholanda.com.br/blog).
-- Mantenho a [Comunidade SEO e GEO no Discord](https://discord.gg/qyRjauZwD3), onde eu sempre apareço para conversar.
-- Sou mentor de SEO e GEO no [Énóis](https://enois.ia.br/perfil/henrique-holanda-da-silva).
+- Escrevo sobre <a href="https://seohenriqueholanda.com.br/blog/categoria/seo" target="_blank" rel="noopener noreferrer">SEO</a>, <a href="https://seohenriqueholanda.com.br/blog/categoria/geo" target="_blank" rel="noopener noreferrer">GEO</a> e <a href="https://seohenriqueholanda.com.br/blog/categoria/publicidade-medica" target="_blank" rel="noopener noreferrer">publicidade médica</a> no <a href="https://seohenriqueholanda.com.br/blog" target="_blank" rel="noopener noreferrer">meu blog</a>.
+- Mantenho a <a href="https://discord.gg/qyRjauZwD3" target="_blank" rel="noopener noreferrer">Comunidade SEO e GEO no Discord</a>, onde eu sempre apareço para conversar.
+- Sou mentor de SEO e GEO no <a href="https://enois.ia.br/perfil/henrique-holanda-da-silva" target="_blank" rel="noopener noreferrer">Énóis</a>.
 
 ## <a name="servicos"><img src="./assets/h-servicos.svg" width="30" height="30" alt="" /></a> O que eu faço
 
@@ -51,7 +51,7 @@ Trabalho com SEO técnico, SEO local e GEO, que é a otimização para as respos
   <img src="./assets/servicos.svg" width="1200" alt="SEO técnico: Rastreamento, indexação, velocidade e dados estruturados. O site precisa ser lido antes de ranquear. SEO local: Perfil da Empresa no Google, avaliações e páginas locais para quem atende no bairro e na cidade. GEO: citado pelas IAs: Entidade clara e conteúdo citável para aparecer como fonte no AI Overviews, ChatGPT, Gemini e Perplexity. Publicidade médica: Sites de médicos e clínicas dentro da Resolução CFM 2.336/2023, sem perder força na busca. Sites rápidos: Next.js e Payload CMS no lugar do WordPress pesado: leve, seguro e fácil de editar. Mensuração: Antes e depois com dados do Google, para saber se o SEO funcionou de verdade." />
 </picture>
 
-<p align="right"><a href="https://seohenriqueholanda.com.br/servicos">Veja os serviços no site</a></p>
+<p align="right"><a href="https://seohenriqueholanda.com.br/servicos" target="_blank" rel="noopener noreferrer">Veja os serviços no site</a></p>
 
 ## <a name="ferramentas"><img src="./assets/h-ferramentas.svg" width="30" height="30" alt="" /></a> Ferramentas do dia a dia
 
@@ -74,7 +74,7 @@ No **SEO Summit 2026** eu falo sobre mensuração de SEO local: como saber, com 
 <details>
 <summary><b>Quem é Henrique Holanda?</b></summary>
 <br />
-Henrique Holanda é consultor de <b>SEO técnico e GEO</b> em Campinas, SP. Atende clínicas, consultórios e negócios locais, com foco em fazer o site ser encontrado no Google e citado pelas IAs. Site oficial: <a href="https://seohenriqueholanda.com.br/">seohenriqueholanda.com.br</a>.
+Henrique Holanda é consultor de <b>SEO técnico e GEO</b> em Campinas, SP. Atende clínicas, consultórios e negócios locais, com foco em fazer o site ser encontrado no Google e citado pelas IAs. Site oficial: <a href="https://seohenriqueholanda.com.br/" target="_blank" rel="noopener noreferrer">seohenriqueholanda.com.br</a>.
 </details>
 
 <details>
@@ -92,19 +92,19 @@ Eles se completam. O SEO faz o site ser encontrado e bem posicionado na busca. O
 <details>
 <summary><b>Por que site de médico precisa de cuidado extra?</b></summary>
 <br />
-Porque a publicidade médica segue a Resolução CFM 2.336/2023, que tem regras para fotos, depoimentos e promessas de resultado. Henrique revisa o site para ele crescer na busca sem expor o médico a problemas no CRM. Os artigos sobre o tema ficam em <a href="https://seohenriqueholanda.com.br/blog/categoria/publicidade-medica">publicidade médica</a>.
+Porque a publicidade médica segue a Resolução CFM 2.336/2023, que tem regras para fotos, depoimentos e promessas de resultado. Henrique revisa o site para ele crescer na busca sem expor o médico a problemas no CRM. Os artigos sobre o tema ficam em <a href="https://seohenriqueholanda.com.br/blog/categoria/publicidade-medica" target="_blank" rel="noopener noreferrer">publicidade médica</a>.
 </details>
 
 <details>
 <summary><b>Como falar com o Henrique?</b></summary>
 <br />
-Pelo <a href="https://seohenriqueholanda.com.br/">site</a>, pelo <a href="https://www.linkedin.com/in/henrique-holanda-07240b10b">LinkedIn</a> ou na <a href="https://discord.gg/qyRjauZwD3">Comunidade SEO e GEO no Discord</a>, onde ele sempre aparece.
+Pelo <a href="https://seohenriqueholanda.com.br/" target="_blank" rel="noopener noreferrer">site</a>, pelo <a href="https://www.linkedin.com/in/henrique-holanda-07240b10b" target="_blank" rel="noopener noreferrer">LinkedIn</a> ou na <a href="https://discord.gg/qyRjauZwD3" target="_blank" rel="noopener noreferrer">Comunidade SEO e GEO no Discord</a>, onde ele sempre aparece.
 </details>
 
 ## <a name="contato"><img src="./assets/h-contato.svg" width="30" height="30" alt="" /></a> Vamos conversar
 
-O jeito mais rápido é a [Comunidade SEO e GEO no Discord](https://discord.gg/qyRjauZwD3). Para projetos, fale comigo pelo [site](https://seohenriqueholanda.com.br/) ou pelo [LinkedIn](https://www.linkedin.com/in/henrique-holanda-07240b10b).
+O jeito mais rápido é a <a href="https://discord.gg/qyRjauZwD3" target="_blank" rel="noopener noreferrer">Comunidade SEO e GEO no Discord</a>. Para projetos, fale comigo pelo <a href="https://seohenriqueholanda.com.br/" target="_blank" rel="noopener noreferrer">site</a> ou pelo <a href="https://www.linkedin.com/in/henrique-holanda-07240b10b" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 
 <p align="center">
-  <a href="https://seohenriqueholanda.com.br/"><img src="./assets/rodape.svg" width="1200" alt="Henrique Holanda" /></a>
+  <a href="https://seohenriqueholanda.com.br/" target="_blank" rel="noopener noreferrer"><img src="./assets/rodape.svg" width="1200" alt="Henrique Holanda" /></a>
 </p>
