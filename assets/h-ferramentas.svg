@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="tt dd"><title id="tt"></title><desc id="dd"></desc><style>text{font-feature-settings:"lnum" 1,"pnum" 1}
+@keyframes deriva{to{transform:translate(-40px,26px)}}
+@keyframes desenha{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes aparece{from{opacity:0}}
+@keyframes sobe{from{opacity:0;transform:translateY(12px)}}
+@keyframes troca{0%{opacity:0;transform:translateY(6px)}4%,30%{opacity:1;transform:translateY(0)}34%,100%{opacity:0;transform:translateY(-6px)}}
+@keyframes pisca{50%{opacity:0}}
+@keyframes pulso{0%{opacity:.65;transform:scale(1)}70%,100%{opacity:0;transform:scale(1.65)}}
+@keyframes gira{to{transform:rotate(360deg)}}
+@keyframes eq1{0%{transform:scaleY(.88)}35%{transform:scaleY(.3)}65%{transform:scaleY(.62)}100%{transform:scaleY(.08)}}
+@keyframes eq2{0%{transform:scaleY(.4)}40%{transform:scaleY(.8)}70%{transform:scaleY(.18)}100%{transform:scaleY(.55)}}
+@keyframes cutuca{to{transform:translateX(-6px)}}
+@keyframes cutucay{to{transform:translateY(-5px)}}
+@keyframes brilha{50%{opacity:.35}}
+.fb{transform-box:fill-box;transform-origin:center}
+.deriva{animation:deriva 14s ease-in-out infinite alternate}
+.linha{animation:desenha 3.2s cubic-bezier(.6,.1,.2,1) .3s both}
+.area{animation:aparece 1.6s ease 2.4s both}
+.amp{animation:aparece .8s ease .2s both}
+.sobe{animation:sobe .9s ease .5s both}
+.pisca{animation:pisca 1.6s steps(1) infinite}
+.cur{animation:pisca 1s steps(1) infinite}
+.q{animation:troca 12s infinite both}
+.q2{animation-delay:4s}.q3{animation-delay:8s}
+.pulso{transform-box:fill-box;transform-origin:center;animation:pulso 2.8s ease-out 1.6s infinite both}
+.gira{transform-box:fill-box;transform-origin:center;animation:gira 6s linear infinite}
+.eq{transform-box:fill-box;transform-origin:50% 0;animation:eq1 1s ease-in-out infinite alternate}
+.cutuca{animation:cutuca .9s ease-in-out infinite alternate}
+.cutucay{animation:cutucay .9s ease-in-out infinite alternate}
+.brilha{animation:brilha 2.4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><linearGradient id="og" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0C58A"/><stop offset=".55" stop-color="#D59543"/><stop offset="1" stop-color="#B1621A"/></linearGradient></defs><rect x="1" y="1" width="62" height="62" rx="15" fill="#00141C" stroke="rgba(213,149,67,.55)" stroke-width="1.5"/><path d="M24 20 L13 32 L24 44 M40 20 L51 32 L40 44" stroke="url(#og)" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M35 17 L29 47" stroke="url(#og)" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

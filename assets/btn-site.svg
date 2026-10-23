@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80" role="img" aria-labelledby="tt dd"><title id="tt">Site</title><desc id="dd">Site do Henrique Holanda</desc><style>@font-face{font-family:mon700;src:url(data:font/woff2;base64,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) format("woff2")}text{font-feature-settings:"lnum" 1,"pnum" 1}
+@keyframes deriva{to{transform:translate(-40px,26px)}}
+@keyframes desenha{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes aparece{from{opacity:0}}
+@keyframes sobe{from{opacity:0;transform:translateY(12px)}}
+@keyframes troca{0%{opacity:0;transform:translateY(6px)}4%,30%{opacity:1;transform:translateY(0)}34%,100%{opacity:0;transform:translateY(-6px)}}
+@keyframes pisca{50%{opacity:0}}
+@keyframes pulso{0%{opacity:.65;transform:scale(1)}70%,100%{opacity:0;transform:scale(1.65)}}
+@keyframes gira{to{transform:rotate(360deg)}}
+@keyframes eq1{0%{transform:scaleY(.88)}35%{transform:scaleY(.3)}65%{transform:scaleY(.62)}100%{transform:scaleY(.08)}}
+@keyframes eq2{0%{transform:scaleY(.4)}40%{transform:scaleY(.8)}70%{transform:scaleY(.18)}100%{transform:scaleY(.55)}}
+@keyframes cutuca{to{transform:translateX(-6px)}}
+@keyframes cutucay{to{transform:translateY(-5px)}}
+@keyframes brilha{50%{opacity:.35}}
+.fb{transform-box:fill-box;transform-origin:center}
+.deriva{animation:deriva 14s ease-in-out infinite alternate}
+.linha{animation:desenha 3.2s cubic-bezier(.6,.1,.2,1) .3s both}
+.area{animation:aparece 1.6s ease 2.4s both}
+.amp{animation:aparece .8s ease .2s both}
+.sobe{animation:sobe .9s ease .5s both}
+.pisca{animation:pisca 1.6s steps(1) infinite}
+.cur{animation:pisca 1s steps(1) infinite}
+.q{animation:troca 12s infinite both}
+.q2{animation-delay:4s}.q3{animation-delay:8s}
+.pulso{transform-box:fill-box;transform-origin:center;animation:pulso 2.8s ease-out 1.6s infinite both}
+.gira{transform-box:fill-box;transform-origin:center;animation:gira 6s linear infinite}
+.eq{transform-box:fill-box;transform-origin:50% 0;animation:eq1 1s ease-in-out infinite alternate}
+.cutuca{animation:cutuca .9s ease-in-out infinite alternate}
+.cutucay{animation:cutucay .9s ease-in-out infinite alternate}
+.brilha{animation:brilha 2.4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><linearGradient id="og" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0C58A"/><stop offset=".55" stop-color="#D59543"/><stop offset="1" stop-color="#B1621A"/></linearGradient><linearGradient id="bf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b2733"/><stop offset="1" stop-color="#00141C"/></linearGradient></defs><rect x="2" y="2" width="296" height="76" rx="38" fill="url(#bf)" stroke="url(#og)" stroke-width="2.5"/><circle cx="46" cy="40.0" r="24" fill="rgba(213,149,67,.12)"/><circle cx="46" cy="40.0" r="13" stroke="url(#og)" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="46" cy="40.0" rx="6" ry="13" stroke="url(#og)" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M33 40.0 H59" stroke="url(#og)" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="86" y="49" font-family="mon700,Montserrat,'Segoe UI',system-ui,sans-serif" font-size="25" fill="#fff">Site</text></svg>
