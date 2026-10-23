@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://files.catbox.moe/2thyzw.mp3" target="_blank" rel="noopener noreferrer"><img src="./assets/radio.svg" width="504" alt="Rádio HH: Perfect World Soundtrack, trilha sonora nostálgica de 34 minutos. Clique para ouvir." /></a>
+  <a href="https://files.catbox.moe/c4wmvg.mp3" target="_blank" rel="noopener noreferrer"><img src="./assets/radio.svg" width="504" alt="Rádio HH: Ragnarok Online, Theme of Prontera, 4 minutos e 34 segundos. Clique para ouvir." /></a>
 </p>
 
 </details>
